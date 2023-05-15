@@ -1,4 +1,5 @@
 ```
+ apt-get update && apt-get install vim less git
  rm -rf /root/.cache
  ln -s /workspace/.cache/ /root/.cache
  
