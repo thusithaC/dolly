@@ -12,6 +12,10 @@
 ```
 
 
+```
+apt-get update && apt-get install tesseract-ocr
+```
+
 ```bash
 git config --global user.email "thusithanc@gmail.com"
 git config --global user.name "thusitha"
